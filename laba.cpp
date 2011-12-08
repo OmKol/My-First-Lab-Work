@@ -5,6 +5,6 @@
  *      Author: omkol
  */
 
+int main() {
 
-
-
+}
